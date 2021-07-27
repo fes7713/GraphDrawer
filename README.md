@@ -1,7 +1,7 @@
 # GraphDrawer
 
 - Language Python
-- Library PyQt5
+- Library Matplotlib
 
 <br>
 
